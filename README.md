@@ -75,3 +75,10 @@ Feel free to fork the repository and submit issues or pull requests to improve t
 
 
 **OUTPUT**
+
+![CurentLocation](https://github.com/user-attachments/assets/31a39084-f5f2-4cce-b99a-685619935df3)
+![CurrentLocation2](https://github.com/user-attachments/assets/c9c2f135-5659-4221-b032-9597ddcf2675)
+![GetWeather](https://github.com/user-attachments/assets/ce2ffd88-5a28-4eaa-8a28-a7392530e86b)
+![GetWeather2](https://github.com/user-attachments/assets/d439719e-b182-4f49-b8bb-aad6b9dbdabf)
+![Initial](https://github.com/user-attachments/assets/57230196-3222-45b2-ad7a-becfa01048bf)
+
