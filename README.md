@@ -77,3 +77,16 @@ Feel free to fork the repository and submit issues or pull requests to improve t
 **OUTPUT**
 
 1)Initial Page
+https://github.com/user-attachments/assets/5f325996-b866-46e9-aeb4-b94e55e0461b
+
+2)Weather in a given city(Mumbai)
+https://github.com/user-attachments/assets/553df900-900e-42c1-b280-0855364babbb
+
+3)Allow the location access
+https://github.com/user-attachments/assets/f6842db8-2b66-4b93-889c-267b30b71058
+
+4)Weather in current location
+https://github.com/user-attachments/assets/ae22d833-c8ee-4b56-96ad-bca950c9b040
+
+5)Weather in a given city(Tokyo)
+https://github.com/user-attachments/assets/f471bef3-4a07-4b0c-be2d-be23b399dc6b
