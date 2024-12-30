@@ -75,8 +75,3 @@ Feel free to fork the repository and submit issues or pull requests to improve t
 
 
 **OUTPUT**
-https://github.com/user-attachments/assets/297b245c-1912-4854-8c64-aa537d45b229
-https://github.com/user-attachments/assets/dabe60ef-b7ea-4ca5-ba5b-ef0daa61e200
-https://github.com/user-attachments/assets/2b45a368-39f3-4dee-af7a-723276d6d9ca
-https://github.com/user-attachments/assets/3ca5d99b-af77-444d-a604-b7a651652862
-https://github.com/user-attachments/assets/dabe60ef-b7ea-4ca5-ba5b-ef0daa61e200
