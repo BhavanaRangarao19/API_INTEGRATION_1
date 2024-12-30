@@ -77,7 +77,7 @@ Feel free to fork the repository and submit issues or pull requests to improve t
 **OUTPUT**
 
 1)Initial Page
-https://github.com/user-attachments/assets/5f325996-b866-46e9-aeb4-b94e55e0461b
+https://github.com/user-attachments/assets/99a32af8-0bec-44e1-8209-9363bdc311df
 
 2)Weather in a given city(Mumbai)
 https://github.com/user-attachments/assets/553df900-900e-42c1-b280-0855364babbb
