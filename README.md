@@ -12,7 +12,6 @@
 
 **MENTOR NAME** : NEELA SANTHOSH
 
-**DESCRIPTION OF TASK** :
 
 # **Enhanced Weather App**
 
