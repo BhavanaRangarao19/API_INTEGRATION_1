@@ -1,6 +1,18 @@
 # API_INTEGRATION_1
 
-**
+**COMPANY** : CODTECH IT SOLUTIONS
+
+**NAME** : BELLAMKONDA BHAVANA
+
+**INTERN ID** : CT08GHY
+
+**DOMAIN** : Full Stack Web Development
+
+**BATCH DURATION** : From December 25th, 2024 To January 25th, 2025
+
+**MENTOR NAME** : NEELA SANTHOSH
+
+**DESCRIPTION OF TASK** :
 
 # **Enhanced Weather App**
 
@@ -75,12 +87,6 @@ Feel free to fork the repository and submit issues or pull requests to improve t
 
 
 **OUTPUT**
-
-1)Webpage layout
-2)Weather Results of given city(Mumbai)
-3)Current Location Feature – Button for fetching weather using GPS
-4)Weather Results of Current Location
-5)Weather Results of given city(Tokyo)
 
 ![Initial](https://github.com/user-attachments/assets/57230196-3222-45b2-ad7a-becfa01048bf)
 ![GetWeather](https://github.com/user-attachments/assets/ce2ffd88-5a28-4eaa-8a28-a7392530e86b)
