@@ -1,18 +1,4 @@
-# API_INTEGRATION_1
-
-**COMPANY** : CODTECH IT SOLUTIONS
-
-**NAME** : BELLAMKONDA BHAVANA
-
-**INTERN ID** : CT08GHY
-
-**DOMAIN** : Full Stack Web Development
-
-**BATCH DURATION** : From December 25th, 2024 To January 25th, 2025
-
-**MENTOR NAME** : NEELA SANTHOSH
-
-
+# API_INTEGRATION
 # **Enhanced Weather App**
 
 This is a simple weather application that fetches weather data for a given city or the user's current location using the OpenWeatherMap API. The app displays current weather conditions, including temperature, humidity, wind speed, sunrise, and sunset times. Additionally, it maintains a history of searched cities.
